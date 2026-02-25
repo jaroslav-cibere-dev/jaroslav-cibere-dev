@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ahoj, som Jaro! 🤟
 
-<!--
-**jaroslav-cibere-dev/jaroslav-cibere-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Som zo Slovenska a momentálne pracujem ako osobný bankár, no rozhodol som sa zmeniť kariéru. 
+Učím sa Fullstack development s cieľom prejsť z 9-to-5 jobu do IT. 💻
 
-Here are some ideas to get you started:
+## O mne
+- 💼 Momentálne: osobný bankár
+- 🎯 Cieľ: Kariérna zmena do Fullstack developmentu
+- 🌱 Učím sa: HTML, CSS, JavaScript, ...
+- 📍 Slovensko
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfólio
+
+| Projekt | Popis | Link |
+|---------|-------|------|
+| Portfólio stránka | Moja osobná stránka | [tvoje-meno.github.io](https://tvoje-meno.github.io) |
+
+## 📈 Sledovanie pokroku štúdia
+Detailný záznamy môjho štúdia: [STUDIUM.md](./STUDIUM.md)
