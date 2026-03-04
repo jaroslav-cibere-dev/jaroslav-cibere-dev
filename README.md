@@ -1,19 +1,19 @@
-# Ahoj, som Jaro! 🤟
+# Hi, I'm Jaro! 🤟
 
-Som zo Slovenska a momentálne pracujem ako osobný bankár, no rozhodol som sa zmeniť kariéru. 
-Učím sa Fullstack development s cieľom prejsť z 9-to-5 jobu do IT. 💻
+I'm from Slovakia and currently work as a personal banker, but I've decided to change careers. 
+I'm learning Fullstack development with the goal of transitioning from a 9-to-5 job to IT. 💻
 
-## O mne
-- 💼 Momentálne: osobný bankár
-- 🎯 Cieľ: Kariérna zmena do Fullstack developmentu
-- 🌱 Učím sa: HTML, CSS, JavaScript, ...
-- 📍 Slovensko
+## About
+- 💼 Currently: personal banker
+- 🎯 Goal: Career change to full-stack development
+- 🌱 Learning: HTML, CSS, JavaScript, ...
+- 📍 Slovakia
 
-## Portfólio
+## Portfolio
 
-| Projekt | Popis | Link |
+| Project | Description | Link |
 |---------|-------|------|
-| Portfólio stránka | Moja osobná stránka | [tvoje-meno.github.io](https://tvoje-meno.github.io) |
+| Portfolio page | My personal page | [tvoje-meno.github.io](https://tvoje-meno.github.io) |
 
-## 📈 Sledovanie pokroku štúdia
-Detailný záznamy môjho štúdia: [STUDIUM.md](./STUDIUM.md)
+## 📈 Tracking study progress
+Detailed records of my studies: [STUDIUM.md](./STUDIUM.md)
