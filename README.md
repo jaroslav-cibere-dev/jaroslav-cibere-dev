@@ -16,4 +16,4 @@ I'm learning Fullstack development with the goal of transitioning from a 9-to-5 
 | Portfolio page | My personal page | [tvoje-meno.github.io](https://tvoje-meno.github.io) |
 
 ## 📈 Tracking study progress
-Detailed records of my studies: [STUDIUM.md](.studium.md)
+Detailed records of my studies: [STUDIUM.md](studium.md)
